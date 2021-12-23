@@ -1,0 +1,1 @@
+print("Hello. This program simply prints out a string to standard out.")
